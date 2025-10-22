@@ -1,0 +1,7 @@
+node_modules
+cypress/screenshots
+cypress/videos
+test.js
+cypress/e2e/lessonQueries.cy.js
+
+
