@@ -8,5 +8,6 @@ module.exports = defineConfig({
     //},
     baseUrl: 'https://guest:welcome2qauto@qauto.forstudy.space/',
     video: true,
+    supportFile: 'cypress/e2e/support/e2e.js',
   },
 })
