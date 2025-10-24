@@ -3,5 +3,6 @@ cypress/screenshots
 cypress/videos
 test.js
 cypress/e2e/lessonQueries.cy.js
-
+cypress/package-lock.json
+cypress/package.json
 
